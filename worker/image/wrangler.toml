@@ -6,5 +6,5 @@ logpush = true
 
 [[r2_buckets]]
 binding = 'IMAGES_CACHE'
-bucket_name = 'images-cache'
+bucket_name = 'manhuaimage'
 
